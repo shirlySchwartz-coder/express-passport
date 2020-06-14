@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "Dana",
+            "password": "1111",
+            "email": "test@efui.com"
+        },
+        {
+            "name": "Ram",
+            "password": "2222",
+            "email": "test@hello.com"
+        },
+        {
+            "name": "Kam",
+            "password": "3333",
+            "email": "hello@world.com"
+        },
+        {
+            "name": "Lora",
+            "password": "4444",
+            "email": "hello@gmail.com"
+        }
+    ]
+}
